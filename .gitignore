@@ -1,0 +1,7 @@
+*.out
+*.exe
+*.o
+*.obj
+/stego.bmp
+/decoded.*
+/roundtrip-*
